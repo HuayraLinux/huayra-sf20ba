@@ -1,3 +1,9 @@
+huayra-sf20ba (1.1) unstable; urgency=medium
+
+  * Add fix to Mic
+
+ -- Matias De lellis <mati86dl@gmail.com>  Fri, 09 Oct 2020 11:35:24 -0300
+
 huayra-sf20ba (1.0) unstable; urgency=medium
 
   * Initial release.
